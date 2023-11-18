@@ -1,0 +1,43 @@
+*{
+  padding: 0%;
+  margin: 0%;
+  box-sizing: border-box;
+  text-decoration: none;
+}
+
+.dy{
+  background-color: rgba(248, 218, 180, 0.89);
+}
+
+.h2{
+  margin-bottom: 15px;
+}
+
+.p{
+  margin-bottom: 15px;
+}
+
+table,th,td{
+  border:1px solid black;
+  border-collapse: collapse;
+  padding: 15px 50px;
+}
+
+
+  
+
+.report{
+  background-color: rgb(80, 235, 80);
+  color: black;
+  border: none;
+  border-radius: 6px;
+  padding: 10px 20px;
+  font-weight: bold;
+  margin-top: 15px;
+}
+
+.tal{
+  
+  border-collapse: collapse;
+  border:none;
+}
